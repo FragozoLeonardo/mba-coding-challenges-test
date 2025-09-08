@@ -6,7 +6,7 @@
 # @param {Integer} n
 # @return {Void} Do not return anything, modify nums1 in-place instead.
 
-# Exercise number 88
+# Exercise number 88 - https://leetcode.com/problems/merge-sorted-array/
 def merge(nums1, m, nums2, n)
   i = m - 1
   j = n - 1

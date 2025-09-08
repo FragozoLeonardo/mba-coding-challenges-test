@@ -1,6 +1,9 @@
 # frozen_string_literal: true
 
 # Definition for a binary tree node.
+#
+# Exercise number 100 - https://leetcode.com/problems/same-tree/description/
+
 class TreeNode
   attr_accessor :val, :left, :right
   def initialize(val = 0, left = nil, right = nil)
