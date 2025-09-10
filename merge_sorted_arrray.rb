@@ -1,11 +1,5 @@
 # frozen_string_literal: true
 
-# @param {Integer[]} nums1
-# @param {Integer} m
-# @param {Integer[]} nums2
-# @param {Integer} n
-# @return {Void} Do not return anything, modify nums1 in-place instead.
-
 # Exercise number 88 - https://leetcode.com/problems/merge-sorted-array/
 def merge(nums1, m, nums2, n)
   i = m - 1

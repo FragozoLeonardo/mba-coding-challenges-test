@@ -1,6 +1,5 @@
 # frozen_string_literal: true
-#
-# Returns true if s is a palindrome considering only alphanumeric characters and ignoring case.
+
 # Exercise number 125 - https://leetcode.com/problems/valid-palindrome/
 def is_palindrome(s)
   i = 0

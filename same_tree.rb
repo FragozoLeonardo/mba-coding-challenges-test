@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-# Definition for a binary tree node.
-#
 # Exercise number 100 - https://leetcode.com/problems/same-tree/description/
 
 class TreeNode
