@@ -11,7 +11,7 @@ def num_islands(grid)
 
   # helper DFS
   dfs = lambda do |r, c|
-    return if r < 0 || c < 0 || r >= rows || c >= cols || grid[r][c] == '0'
+    return if r.negative? || c.negative? || r >= rows || c >= cols || grid[r][c] == '0'
 
     grid[r][c] = '0' # mark visited
 
