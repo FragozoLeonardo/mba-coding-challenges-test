@@ -31,6 +31,6 @@ def roman_to_int(s)
   total
 end
 # Exemplos de uso
-puts roman_to_int("XX")      # => 20
-puts roman_to_int("VI")   # => 6
-puts roman_to_int("MCMXCIII")  # => 1993
+puts roman_to_int('XX') # => 20
+puts roman_to_int('VI') # => 6
+puts roman_to_int('MCMXCIII') # => 1993

@@ -19,8 +19,8 @@ def merge(nums1, m, nums2, n)
 end
 
 # Exemplos de uso
-nums1 = [1,2,3,0,0,0]
-merge(nums1, 3, [2,5,6], 3)
+nums1 = [1, 2, 3, 0, 0, 0]
+merge(nums1, 3, [2, 5, 6], 3)
 puts nums1.inspect  # => [1,2,2,3,5,6]
 
 nums1 = [1]
