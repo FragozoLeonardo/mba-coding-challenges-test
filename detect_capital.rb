@@ -11,7 +11,7 @@ def detect_capital_use(word)
 end
 
 # Exemplos de uso
-p detect_capital_use('Bra') # => true
+p detect_capital_use('Brasil') # => true
 p detect_capital_use('leetcode') # => true
 p detect_capital_use('Google')  # => true
 p detect_capital_use('FlaG')    # => false
