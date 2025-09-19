@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Exercise number 697 - https://leetcode.com/problems/degree-of-an-array/
 
 # @param {Integer[]} nums
