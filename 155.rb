@@ -1,8 +1,8 @@
-# frozen_string_literal: true
-
 # Exercise 155 - https://leetcode.com/problems/min-stack/
 
-class MinStack
+# frozen_string_literal: true
+
+class 155
   def initialize
     @stack = []
     @min_stack = []

@@ -1,6 +1,6 @@
-# frozen_string_literal: true
-
 # Exercise 134 - https://leetcode.com/problems/gas-station/submissions/
+
+# frozen_string_literal: true
 
 def can_complete_circuit(gas, cost)
   total = 0

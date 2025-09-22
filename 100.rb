@@ -1,6 +1,6 @@
-# frozen_string_literal: true
+# Exercise 100 - https://leetcode.com/problems/same-tree/description/
 
-# Exercise number 100 - https://leetcode.com/problems/same-tree/description/
+# frozen_string_literal: true
 
 class TreeNode
   attr_accessor :val, :left, :right

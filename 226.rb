@@ -1,6 +1,7 @@
+# Exercise 226 - https://leetcode.com/problems/invert-binary-tree/
+
 # frozen_string_literal: true
 
-# Exercise number 226 - https://leetcode.com/problems/invert-binary-tree/
 def invert_tree(root)
   return nil if root.nil?
 

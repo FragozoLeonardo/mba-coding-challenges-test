@@ -1,9 +1,7 @@
+# Exercise 118 - https://leetcode.com/problems/pascals-triangle/description/
+
 # frozen_string_literal: true
 
-# Exwrcise 118 - https://leetcode.com/problems/pascals-triangle/description/
-
-# @param {Integer} num_rows
-# @return {Integer[][]}
 def generate(num_rows)
   triangle = []
 

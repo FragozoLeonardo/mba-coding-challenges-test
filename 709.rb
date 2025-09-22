@@ -1,9 +1,7 @@
-# frozen_string_literal: true
-
 # Exercise 709 - https://leetcode.com/problems/to-lower-case/
 
-# @param {String} s
-# @return {String}
+# frozen_string_literal: true
+
 def to_lower_case(s)
   s.downcase
 end

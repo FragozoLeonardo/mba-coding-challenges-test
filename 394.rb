@@ -1,6 +1,6 @@
-# frozen_string_literal: true
-
 # Exercise 394 - https://leetcode.com/problems/decode-string/
+
+# frozen_string_literal: true
 
 def decode_string(s)
   num_stack = []

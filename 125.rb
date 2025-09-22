@@ -1,6 +1,7 @@
+# Exercise 125 - https://leetcode.com/problems/valid-palindrome/
+
 # frozen_string_literal: true
 
-# Exercise number 125 - https://leetcode.com/problems/valid-palindrome/
 def is_palindrome(s)
   i = 0
   j = s.length - 1

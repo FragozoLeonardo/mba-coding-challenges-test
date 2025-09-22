@@ -1,6 +1,6 @@
-# frozen_string_literal: true
+# Exercise 200 - https://leetcode.com/problems/number-of-islands/description/
 
-# Exercise number 200 - https://leetcode.com/problems/number-of-islands/description/
+# frozen_string_literal: true
 
 def num_islands(grid)
   return 0 if grid.empty?

@@ -1,9 +1,7 @@
+# Exercise 697 - https://leetcode.com/problems/degree-of-an-array/
+
 # frozen_string_literal: true
 
-# Exercise number 697 - https://leetcode.com/problems/degree-of-an-array/
-
-# @param {Integer[]} nums
-# @return {Integer}
 def find_shortest_sub_array(nums)
   counts = Hash.new(0)
   first_index = {}
